@@ -1,7 +1,7 @@
 spacy == 2.1.4
 pandas == 0.24.2
 scikit-learn == 0.21.2
-tensorflow == 1.14.0
+tensorflow == 2.3.1
 torch == 1.0.0
 seaborn == 0.9.0
 lime == 0.1.1.32
